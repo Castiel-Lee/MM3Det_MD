@@ -11,8 +11,8 @@
 
 ## 🌟 Introduction
 **ModalPatch** is the first **plug-and-play** module specifically designed to tackle the **Modality Drop** problem in multi-modal 3D object detection. 
-pip install -v -e .  # or "python setup.py develop"
-In real-world autonomous driving, sensors (LiDAR or Cameras) often encounter transient data interruptions due to hardware glitches, adverse weather, or occlusions. ModalPatch enables robust detection under arbitrary modality-drop scenarios through:
+
+ModalPatch enables robust detection under  modality-drop scenarios through:
 - **Seamless Integration**: Can be plugged into diverse SOTA frameworks without architectural changes or re-training.
 - **Perceptual Continuity**: Utilizes temporal sensor data to predict and "patch" missing features using a history-based mechanism.
 - **Uncertainty-Aware Fusion**: Dynamically estimates the reliability of compensated features to suppress biased signals and reinforce informative ones.
