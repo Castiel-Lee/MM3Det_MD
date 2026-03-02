@@ -3,8 +3,8 @@
 ---
 
 ## 📢 News
-* **[202X-01-31]**: ModalPatch has been accepted by **ICRA 2026**! 🎉
-* **[202X-02-27]**: Initial code release for integrating ModalPatch with UniBEV.
+* **[2026-01-31]**: ModalPatch has been accepted by **ICRA 2026**! 🎉
+* **[2026-02-27]**: Initial code release for integrating ModalPatch with UniBEV.
 
 
 ---
