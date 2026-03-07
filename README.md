@@ -1,5 +1,4 @@
-# ModalPatch: A Plug-and-Play Module for Robust Multi-Modal 3D Object Detection under Modality Drop [ICRA 2026]
-
+# ModalPatch: A Plug-and-Play Module for Robust Multi-Modal 3D Object Detection under Modality Drop [ICRA 2026] [![arXiv](https://img.shields.io/badge/arXiv-2603.02481-b31b1b.svg)](https://arxiv.org/abs/2603.02481)
 ---
 
 ## 📢 News
@@ -67,5 +66,10 @@ Regarding model weights, you can find them in [`pretrained models`](https://driv
 ## Citation
 If you find this project useful in your research, please consider citing:
 ```
-
+@article{li2026modalpatch,
+  title={ModalPatch: A Plug-and-Play Module for Robust Multi-Modal 3D Object Detection under Modality Drop},
+  author={Li, Shuangzhi and Ma, Lei and Li, Xingyu},
+  journal={arXiv preprint arXiv:2603.02481},
+  year={2026}
+}
 ```
